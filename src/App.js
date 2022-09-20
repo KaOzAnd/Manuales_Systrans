@@ -13,7 +13,6 @@ function App() {
       <div className='acordeon'>
         <Outlet/>
       </div>
-      {/* <Body/> */}
     </div>
   );
 }

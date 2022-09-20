@@ -14,14 +14,14 @@
 }
 
 .nav{
-    flex: 1;
+    flex: 1.2;
     display: flex;
 }
 
 .nav__link{
     color: #303440;
 
-    padding: 15px 0;
+    padding: 6px 1px;
     text-decoration: none;
 }
 

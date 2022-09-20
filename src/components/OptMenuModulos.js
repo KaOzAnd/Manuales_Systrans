@@ -51,7 +51,7 @@ const OptMenuModulos = () => {
           <NavLink to="LiquidacionExtraordinaria" className="nav__link nav__link--inside">Liquidacion Extraordinaria</NavLink>
         </li>
         <li className="list__inside">
-          <NavLink to="Liquidacion ITA" className="nav__link nav__link--inside">Liquidacion ITA</NavLink>
+          <NavLink to="LiquidacionITA" className="nav__link nav__link--inside">Liquidacion ITA</NavLink>
         </li>
         <li className="list__inside">
           <NavLink to="Pagos" className="nav__link nav__link--inside">Pagos</NavLink>
