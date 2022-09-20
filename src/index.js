@@ -14,7 +14,6 @@ root.render(
         <Route path='/' element={<routes.App />}>
             <Route index element={<routes.Home />} />
             <Route path='CuentasDeUsuarios' element={<routes.CuentasDeUsuarios />} />
-
         </Route>
       </Routes>
     </BrowserRouter>
