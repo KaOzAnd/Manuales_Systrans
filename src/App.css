@@ -90,6 +90,7 @@
     list-style: none;
     transition: height .4s;
     height: 61;
+    text-align: left;
 }
 
 .acordeon{

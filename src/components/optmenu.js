@@ -1,4 +1,4 @@
-// import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 export const OptMenu = () => {
   return (
@@ -6,7 +6,7 @@ export const OptMenu = () => {
       <li className="list__item">
         <div className="list__button">
           <i className="fa-solid fa-house-user"></i>
-          {/* <NavLink className="nav__link" to="Home">Inicio</NavLink> */}
+          <NavLink className="nav__link" to="/">Inicio</NavLink>
         </div>
       </li>
     </>
