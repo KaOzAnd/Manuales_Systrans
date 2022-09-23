@@ -31,7 +31,7 @@ export const OptMenuAdministracion = () => {
         </li>
 
         <li className="list__inside">
-          <NavLink to="PlantillasDePermidos" className="nav__link nav__link--inside">Plantillas de Permisos</NavLink>
+          <NavLink to="PlantillasDePermisos" className="nav__link nav__link--inside">Plantillas de Permisos</NavLink>
         </li>
 
       </ul>

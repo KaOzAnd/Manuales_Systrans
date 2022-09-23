@@ -9,8 +9,10 @@ import OptMenuServicios from "../components/OptMenuServicios";
 export const Menu = () => {
     return (
     <nav className="nav">
-        <ul className="list">
-        <h1 className="Tittle__Systrans">Manuales Systrans</h1>
+
+      <ul className="list">
+        {/* <h1 className="Tittle__Systrans">Manuales</h1>
+        <h1 className="Tittle__Systrans">Systrans</h1> */}
             <OptMenu/>
             <OptMenuAdministracion/>
             <OptMenuContravenciones/>

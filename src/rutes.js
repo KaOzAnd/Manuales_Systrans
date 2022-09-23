@@ -3,7 +3,7 @@ import Home from './pages/Home';
 // importacion de Menu Administracion
 import CuentasDeUsuarios from './pages/Administracion/CuentasDeUsuarios';
 import ConstruccionDeMenus from './pages/Administracion/ConstruccionDeMenus';
-import PlantillasDePermidos from './pages/Administracion/PlantillasDePermidos';
+import PlantillasDePermisos from './pages/Administracion/PlantillasDePermisos';
 // importacion de Menu Contravenciones
 import Agentes from './pages/Contravenciones/Agentes';
 import Audiencias from './pages/Contravenciones/Audiencias';
@@ -36,7 +36,22 @@ import TramitesDeTransito from './pages/Modulos/TramitesDeTransito';
 import Turnos from  './pages/Modulos/Turnos';
 import Automotor from './pages/Modulos/Automotor';
 import ZER from './pages/Modulos/ZER';
-
+// Importacion Menu Parametros
+import Bancos from './pages/Parametros/Bancos';
+import Ciudades from './pages/Parametros/Ciudades';
+import Departamentos from './pages/Parametros/Departamentos';
+import Festivos from './pages/Parametros/Festivos';
+import Implementos from './pages/Parametros/Implementos';
+import Parametros from './pages/Parametros/Parametros';
+import Personas from './pages/Parametros/Personas';
+import Salarios from './pages/Parametros/Salarios';
+// Importacion Menu Servicios
+import Auditorias from './pages/Servicios/Auditorias';
+import Utilidades from './pages/Servicios/Utilidades';
+import IntegracionServicios from './pages/Servicios/IntegracionServicios';
+import Runt from './pages/Servicios/Runt';
+import ServiciosRest from   './pages/Servicios/ServiciosRest';
+import Soporte from './pages/Servicios/Soporte';
 
 export default {
     App,
@@ -44,7 +59,7 @@ export default {
     // TODO: Menu Administracion
     CuentasDeUsuarios,
     ConstruccionDeMenus,
-    PlantillasDePermidos,
+    PlantillasDePermisos,
     // TODO: Menu Contravenciones
     Agentes,
     Audiencias,
@@ -77,5 +92,21 @@ export default {
     TramitesDeTransito,
     Turnos,
     Automotor,
-    ZER
+    ZER,
+    // TODO: Menu Parametros
+    Bancos,
+    Ciudades,
+    Departamentos,
+    Festivos,
+    Implementos,
+    Parametros,
+    Personas,
+    Salarios,
+    // TODO: Menu Servicios
+    Auditorias,
+    Utilidades,
+    IntegracionServicios,
+    Runt,
+    ServiciosRest,
+    Soporte
 }
