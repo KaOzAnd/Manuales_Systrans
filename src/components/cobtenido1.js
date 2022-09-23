@@ -5,7 +5,6 @@ export const Contenido1 = () => {
                 <div class="alert alert-danger" role="alert">
                     Manual de Systrans en construccion!!
                 </div>
-                
             </div>
         </>
     );

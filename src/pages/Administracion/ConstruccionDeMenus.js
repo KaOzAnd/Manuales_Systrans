@@ -1,8 +1,7 @@
 const ConstruccionDeMenus = () => {
    return (
-
-       <div>
-            ConstruccionDeMenus
+       <div className="acordeon">
+            {/* <Acordeon id={} tittle={} cont={}/> */}
        </div>
     );
   }

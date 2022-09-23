@@ -1,9 +1,8 @@
 const PlantillasDePermisos = () => {
-   return (
-
-       <div>
-            PlantillasDePermisos
-       </div>
-    );
-  }
+  return (
+    <div className="acordeon">
+      {/* <Acordeon id={} tittle={} cont={}/> */}
+    </div>
+  );
+}
 export default PlantillasDePermisos

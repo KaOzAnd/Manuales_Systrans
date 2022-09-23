@@ -1,9 +1,8 @@
 const Agentes = () => {
-   return (
-
-       <div>
-            Agentes
-       </div>
-    );
-  }
+  return (
+    <div className="acordeon">
+      {/* <Acordeon id={} tittle={} cont={}/> */}
+    </div>
+  );
+}
 export default Agentes
