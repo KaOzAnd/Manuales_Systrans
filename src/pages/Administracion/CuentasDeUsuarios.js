@@ -9,6 +9,7 @@ const CuentasDeUsuarios = () => {
                 <Acordeon id={'Two'} tittle={'Construccion De Menus'} cont={<Contenido1 />} />
                 <Acordeon id={'Three'} tittle={'Platillas De Permisos'} cont={<Contenido1 />} />
                 {/* <Acordeon id={} tittle={} cont={}/> */}
+                {/* <Acordeon id={} tittle={} cont={}/> */}
             </div>
         </div>
 
