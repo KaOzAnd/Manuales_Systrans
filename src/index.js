@@ -12,6 +12,7 @@ root.render(
       <Routes>
         <Route path='/' element={<routes.App />}>
           <Route index element={<routes.Home />} />
+          <Route path='Home' element={<routes.Home />} />
           {/* Menu Administracion */}
           <Route path='CuentasDeUsuarios' element={<routes.CuentasDeUsuarios />} />
           <Route path='ConstruccionDeMenus' element={<routes.ConstruccionDeMenus />} />

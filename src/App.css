@@ -99,10 +99,30 @@ margin: 10px;
 height: 100vh;
 }
 
+/* Estilos contents */
+
 .Titulo__Contenido{
     text-align: center;
 }
 
-.Tittle__Systrans{
-    
+.Tittle__FirstContents{
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.Img__Systrans{
+    width: 100%;
+    height: 100%;
+
+}
+.Img__Center{
+    text-align: center;
+}
+
+.active{
+    text-decoration: overline;
+    text-decoration: underline;
+    color: rgb(7, 46, 246);
+    font-weight: bold;
 }

@@ -4,7 +4,6 @@ import { NavLink } from "react-router-dom";
 export const OptMenuAdministracion = () => {
 
   const [cl, setAction] = useState('list__hide')
-
   const open = () => {
 
     if (cl === 'list__hide')

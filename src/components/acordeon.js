@@ -5,13 +5,13 @@ export const Acordeon = ({id,tittle,cont}) => {
     return (
         <div className="accordion-item">
         <h2 className="accordion-header" id={nameid}>
-          <button className="accordion-button" type="button" data-bs-toggle="collapse"
+          <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target={nameid2} aria-expanded="true"
             aria-controls={nameid3}>
             {tittle}
           </button>
         </h2>
-        <div id={nameid3} className="accordion-collapse collapse show"
+        <div id={nameid3} className="accordion-collapse collapse"
           aria-labelledby={nameid}>
           <div className="accordion-body">
             {cont}
