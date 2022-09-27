@@ -52,6 +52,8 @@ import IntegracionServicios from './pages/Servicios/IntegracionServicios';
 import Runt from './pages/Servicios/Runt';
 import ServiciosRest from   './pages/Servicios/ServiciosRest';
 import Soporte from './pages/Servicios/Soporte';
+// Digitalizacion
+import Digitalizacion from './pages/Digitalizacion';
 
 export default {
     App,
@@ -108,5 +110,7 @@ export default {
     IntegracionServicios,
     Runt,
     ServiciosRest,
-    Soporte
+    Soporte,
+    // TODO: Digitalizacion
+    Digitalizacion
 }

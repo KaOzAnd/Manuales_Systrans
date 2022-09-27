@@ -66,6 +66,8 @@ root.render(
           <Route path='Runt' element={<routes.Runt/>}/>
           <Route path='ServiciosRest' element={<routes.ServiciosRest/>}/>
           <Route path='Soporte' element={<routes.Soporte/>}/>
+          {/* Digitalizacion */}
+          <Route path='Digitalizacion' element={<routes.Digitalizacion/>}/>
         </Route>
       </Routes>
     </BrowserRouter>

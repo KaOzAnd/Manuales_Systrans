@@ -1,3 +1,4 @@
+import OptMenuDigitalizacion from "../components/Digitalizacion";
 import { OptMenu } from "../components/optmenu";
 import { OptMenuAdministracion } from "../components/OptMenuAdministracion";
 import OptMenuContravenciones from "../components/OptMenuContravenciones";
@@ -19,6 +20,8 @@ export const Menu = () => {
             <OptMenuModulos/>
             <OptMenuParametros/>
             <OptMenuServicios/>
+            <br/>
+            <OptMenuDigitalizacion/>
         </ul>
       </nav>
     );

@@ -10,7 +10,5 @@ export const OptMenu = () => {
         </div>
       </li>
     </>
-
-
   );
 }
