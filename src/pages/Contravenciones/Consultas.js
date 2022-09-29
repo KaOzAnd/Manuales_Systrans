@@ -1,9 +1,8 @@
 const Consultas = () => {
    return (
-
-       <div>
-            Consultas
-       </div>
+    <div className="acordeon">
+    {/* <Acordeon id={} tittle={} cont={}/> */}
+  </div>
     );
   }
 export default Consultas

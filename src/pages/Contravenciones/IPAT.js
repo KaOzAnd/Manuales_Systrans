@@ -1,9 +1,8 @@
 const IPAT = () => {
    return (
-
-       <div>
-            IPAT
-       </div>
+    <div className="acordeon">
+      {/* <Acordeon id={} tittle={} cont={}/> */}
+    </div>
     );
   }
 export default IPAT

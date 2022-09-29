@@ -1,9 +1,8 @@
 const Comparendos = () => {
    return (
-
-       <div>
-            Comparendos
-       </div>
+    <div className="acordeon">
+    {/* <Acordeon id={} tittle={} cont={}/> */}
+  </div>
     );
   }
 export default Comparendos

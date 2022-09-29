@@ -1,9 +1,8 @@
 const Inventarios = () => {
    return (
-
-       <div>
-            Inventarios
-       </div>
+    <div className="acordeon">
+    {/* <Acordeon id={} tittle={} cont={}/> */}
+  </div>
     );
   }
 export default Inventarios

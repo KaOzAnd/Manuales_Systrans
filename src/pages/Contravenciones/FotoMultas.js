@@ -1,9 +1,8 @@
 const FotoMultas = () => {
    return (
-
-       <div>
-            FotoMultas
-       </div>
+    <div className="acordeon">
+    {/* <Acordeon id={} tittle={} cont={}/> */}
+  </div>
     );
   }
 export default FotoMultas

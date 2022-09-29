@@ -1,5 +1,7 @@
 import { Acordeon } from "../../components/acordeon";
+import TOConfigurarTarjetasDeOperacion from "../../contents/Modulos/TO/TOConfigurarTarjetasDeOperacion";
 import TOCrearEmpresas from "../../contents/Modulos/TO/TOCrearEmpresa";
+import TOGenerarTarjetaDeOperacion from "../../contents/Modulos/TO/TOGenerarTarjetaDeOperacion";
 import TOGestionarCapacidadTransportadora from "../../contents/Modulos/TO/TOGestionarCapacidadTransportadora";
 
 const TarjetasDeOperacion = () => {
@@ -9,8 +11,8 @@ const TarjetasDeOperacion = () => {
         <Acordeon id={'One'} tittle={'Crear Empresa'} cont={<TOCrearEmpresas/>}/>
         <Acordeon id={'Two'} tittle={'Gestionar Capacidad Transportadora'} cont={<TOGestionarCapacidadTransportadora/>}/>
         <Acordeon id={'Three'} tittle={'Crear Vehiculo Externo'} cont={''}/>
-        <Acordeon id={'Four'} tittle={'Generar Tarjeta de Operacion'} cont={''}/>
-        <Acordeon id={'Five'} tittle={'Configurar Tarjeta de Operacion'} cont={''}/>
+        <Acordeon id={'Four'} tittle={'Generar Tarjeta de Operacion'} cont={<TOGenerarTarjetaDeOperacion/>}/>
+        <Acordeon id={'Five'} tittle={'Configurar Tarjeta de Operacion'} cont={<TOConfigurarTarjetasDeOperacion/>}/>
       </div>
     </div>
     );

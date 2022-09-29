@@ -1,9 +1,8 @@
 const Archivo = () => {
    return (
-
-       <div>
-            Archivo
-       </div>
+    <div className="acordeon">
+      {/* <Acordeon id={} tittle={} cont={}/> */}
+    </div>
     );
   }
 export default Archivo

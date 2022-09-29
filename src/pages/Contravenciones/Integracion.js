@@ -1,9 +1,8 @@
 const Integracion = () => {
    return (
-
-       <div>
-            Integracion
-       </div>
+    <div className="acordeon">
+    {/* <Acordeon id={} tittle={} cont={}/> */}
+  </div>
     );
   }
 export default Integracion

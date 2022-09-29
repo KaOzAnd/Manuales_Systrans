@@ -1,9 +1,8 @@
 const Audiencias = () => {
    return (
-
-       <div>
-            Audiencias
-       </div>
+    <div className="acordeon">
+    {/* <Acordeon id={} tittle={} cont={}/> */}
+  </div>
     );
   }
 export default Audiencias

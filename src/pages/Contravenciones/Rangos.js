@@ -1,9 +1,8 @@
 const Rangos = () => {
    return (
-
-       <div>
-            Rangos
-       </div>
+    <div className="acordeon">
+      {/* <Acordeon id={} tittle={} cont={}/> */}
+    </div>
     );
   }
 export default Rangos

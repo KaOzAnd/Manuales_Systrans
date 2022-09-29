@@ -3,7 +3,7 @@ export const Acordeon = ({id,tittle,cont}) => {
     const nameid2 = '#panelsStayOpen-collapse'+id;
     const nameid3 = 'panelsStayOpen-collapse'+id;
     return (
-        <div className="accordion-item">
+        <div className="accordion-item accordion-border-color">
         <h2 className="accordion-header" id={nameid}>
           <button className="accordion-button collapsed" type="button" data-bs-toggle="collapse"
             data-bs-target={nameid2} aria-expanded="true"

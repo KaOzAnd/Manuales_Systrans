@@ -1,9 +1,8 @@
 const ActividadesExternas = () => {
    return (
-
-       <div>
-            ActividadesExternas
-       </div>
+    <div className="acordeon">
+      {/* <Acordeon id={} tittle={} cont={}/> */}
+    </div>
     );
   }
 export default ActividadesExternas
