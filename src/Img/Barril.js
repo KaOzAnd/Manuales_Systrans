@@ -40,6 +40,10 @@ import TOLiquidar from './Modulos/TOLiquidar.png';
 import TOLiquidar2 from './Modulos/TOLiquidar2.png';
 import TOLiquidar3 from './Modulos/TOLiquidar3.png';
 import TOLiquidar4 from './Modulos/TOLiquidar4.png';
+import TOLiquidacion from './Modulos/TOLiquidacion.png';
+import TOMigaDePan from './Modulos/TOMigaDePan.png';
+import TORenovacion from './Modulos/TORenovacion.png';
+import TOModulos_TO_Renovacion from './Modulos/TOModulos_TO_Renovacion.png';
 // 
 import Enero2022 from   './CalendarioDespliegues/Enero2022.png';
 import Febrero2022 from   './CalendarioDespliegues/Febrero2022.png';
@@ -97,6 +101,10 @@ export const Img__Barril = {
     TOLiquidar2,
     TOLiquidar3,
     TOLiquidar4,
+    TOLiquidacion,
+    TOMigaDePan,
+    TORenovacion,
+    TOModulos_TO_Renovacion,
     // 
     Enero2022,
     Febrero2022,
