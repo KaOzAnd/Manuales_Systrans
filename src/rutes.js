@@ -54,6 +54,8 @@ import ServiciosRest from   './pages/Servicios/ServiciosRest';
 import Soporte from './pages/Servicios/Soporte';
 // Digitalizacion
 import Digitalizacion from './pages/Digitalizacion';
+// mantis
+import Mantis from './pages/Mantis';
 
 export default {
     App,
@@ -112,5 +114,7 @@ export default {
     ServiciosRest,
     Soporte,
     // TODO: Digitalizacion
-    Digitalizacion
+    Digitalizacion,
+    // TODO: Mantis
+    Mantis
 }

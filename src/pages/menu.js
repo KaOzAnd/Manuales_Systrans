@@ -1,4 +1,5 @@
 import OptMenuDigitalizacion from "../components/Digitalizacion";
+import Mantis from "../components/Mantis";
 import { OptMenu } from "../components/optmenu";
 import { OptMenuAdministracion } from "../components/OptMenuAdministracion";
 import OptMenuContravenciones from "../components/OptMenuContravenciones";
@@ -12,8 +13,7 @@ export const Menu = () => {
     <nav className="nav">
 
       <ul className="list">
-        {/* <h1 className="Tittle__Systrans">Manuales</h1>
-        <h1 className="Tittle__Systrans">Systrans</h1> */}
+        {/* <h1 className="Tittle__Systrans">Manuales Systrans</h1> */}
             <OptMenu/>
             <OptMenuAdministracion/>
             <OptMenuContravenciones/>
@@ -22,6 +22,7 @@ export const Menu = () => {
             <OptMenuServicios/>
             <br/>
             <OptMenuDigitalizacion/>
+            <Mantis/>
         </ul>
       </nav>
     );

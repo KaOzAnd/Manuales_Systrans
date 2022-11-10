@@ -68,6 +68,8 @@ root.render(
           <Route path='Soporte' element={<routes.Soporte/>}/>
           {/* Digitalizacion */}
           <Route path='Digitalizacion' element={<routes.Digitalizacion/>}/>
+          {/* Mantis */}
+          <Route path='Mantis' element={<routes.Mantis/>}/>
         </Route>
       </Routes>
     </BrowserRouter>
