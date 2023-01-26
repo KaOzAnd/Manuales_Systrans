@@ -26,6 +26,25 @@ import icono_mas2 from './icono_mas2.png';
 import formulario_agregarempresa from './formulario_agregarempresa.png';
 import icono_cambiaroperador from './icono_cambiaroperador.png';
 import icono_cargarpolizas from './icono_cargarpolizas.png';
+import mantisbt from './mantisbt.png';
+import mantisbt_panel from './mantisbt_panel.png';
+import BotonBT_ReportarIncidencia from './BotonBT_ReportarIncidencia.png';
+import SeleccionarProyecto from './SeleccionarProyecto.png';
+import detallesincidencia from './detallesincidencia.png';
+import enviarevidencia from './enviarevidencia.png';
+import incidenciareportadadetalle from './incidenciareportadadetalle.png';
+import botonBT_MiVista from './botonBT_MiVista.png';
+import panelbt_mivista from './panelbt_mivista.png';
+import Bt_LineaDeTiempo from './Bt_LineaDeTiempo.png';
+import mantis_resuelta from './mantis_resuelta.png';
+import BT_reabrir_cerrar from './BT_reabrir_cerrar.png';
+import Modulo_Administracion from './Administracion/Modulo_Administracion.png';
+import Btn_Nuevo from './Btn_Nuevo.png';
+import formulario_AgregarUsuario from './formulario_AgregarUsuario.png';
+import icono_GuardarVerde from './icono_GuardarVerde.png';
+import Btn_Nuevo2 from './Btn_Nuevo2.png';
+import Btn_Lupa from './Btn_Lupa.png';
+import Btn_GuardarBlanco from './Btn_GuardarBlanco.png';
 // TODO: IMPORT IMAGENES TO
 import TO from './Modulos/TO.png';
 import TOInicio from './Modulos/TOInicio.png';
@@ -111,10 +130,46 @@ import GruasMantenimientoFormularioKm from './Modulos/GruasMantenimientoFormular
 import GruasEstadosImplementos from './Modulos/GruasEstadosImplementos.png';
 import GruasBotonAccionDeMejora from './Modulos/GruasBotonAccionDeMejora.png';
 import GruasMantenimientoCargarArchivo from './Modulos/GruasMantenimientoCargarArchivo.png';
+// TODO: IMPORT DIGITALIZACION
+import Pag_InstaladorDigitalizacion from './Digitalizacion/Pag_InstaladorDigitalizacion.png';
+// TODO: Cuentas de usuario
+import Administracion_CuentasDeUsuario from './Administracion/Administracion_CuentasDeUsuario.png';
+import Adm_CuentasDeusuarioVista from './Administracion/Adm_CuentasDeusuarioVista.png';
+import Adm_CreacionUsuario from './Administracion/Adm_CreacionUsuario.png';
+import Adm_CreacionUsuario2 from './Administracion/Adm_CreacionUsuario2.png';
+import Adm_CreacionUsuarioTotal from './Administracion/Adm_CreacionUsuarioTotal.png';
+import Adm_MensajeCreacionUsuario from './Administracion/Adm_MensajeCreacionUsuario.png';
+import Menu_Permisos from './Administracion/Menu_Permisos.png';
+import Adm_Permisos from './Administracion/Adm_Permisos.png';
+import Adm_PermisosAdministracion from './Administracion/Adm_PermisosAdministracion.png';
+import Adm_PermisosAdm from './Administracion/Adm_PermisosAdm.png';
+// TODO: Contravenciones
+import Contravenciones_ from './Contravenciones_.png';
+import agentes from './Contravenciones/agentes.png';
+import Agentes_Agregar from './Contravenciones/Agentes_Agregar.png';
+import Agentes_AgregarFormulario from './Contravenciones/Agentes_AgregarFormulario.png';
+import Agentes_AgregarFormularioGuardar from './Contravenciones/Agentes_AgregarFormularioGuardar.png';
+import Agentes_AgregarFormularioMs from './Contravenciones/Agentes_AgregarFormularioMs.png';
+import Dispositivos from './Contravenciones/Dispositivos.png';
+import Dispositivos_Lista from './Contravenciones/Dispositivos_Lista.png';
+import Dispositivos_Formulario from './Contravenciones/Dispositivos_Formulario.png';
+import Dispositivos_Ms from './Contravenciones/Dispositivos_Ms.png';
+import Agentes_Listar from './Contravenciones/Agentes_Listar.png';
+import Agentes_Menu from './Contravenciones/Agentes_Menu.png';
+import Agentes_EditarFormulario from './Contravenciones/Agentes_EditarFormulario.png';
+import Agentes_AgregarNovedad from './Contravenciones/Agentes_AgregarNovedad.png';
+import Agentes_FormularioAgregarNovedades from './Contravenciones/Agentes_FormularioAgregarNovedades.png';
+import Agentes_Calendario from './Contravenciones/Agentes_Calendario.png';
+import Agentes_SerieDelDispositivo from './Contravenciones/Agentes_SerieDelDispositivo.png';
+import Agentes_BuscarAgente from './Contravenciones/Agentes_BuscarAgente.png';
+import Agentes_FormularioAgregarNovedadesGuardar from './Contravenciones/Agentes_FormularioAgregarNovedadesGuardar.png';
 
 export const Img__Barril = {
     // TODO: IMAGENES GLOBALES
     ImgInicio,
+    Btn_Nuevo2,
+    icono_GuardarVerde,
+    formulario_AgregarUsuario,
     ImgModulos,
     icono_mas,
     icono_vehiculo,
@@ -141,6 +196,22 @@ export const Img__Barril = {
     formulario_agregarempresa,
     icono_cambiaroperador,
     icono_cargarpolizas,
+    mantisbt,
+    mantisbt_panel,
+    BotonBT_ReportarIncidencia,
+    SeleccionarProyecto,
+    detallesincidencia,
+    enviarevidencia,
+    incidenciareportadadetalle,
+    botonBT_MiVista,
+    panelbt_mivista,
+    Bt_LineaDeTiempo,
+    mantis_resuelta,
+    BT_reabrir_cerrar,
+    Modulo_Administracion,
+    Btn_Nuevo,
+    Btn_Lupa,
+    Btn_GuardarBlanco,
     // TODO: IMAGENES TO
     TO,
     TOInicio,
@@ -225,5 +296,38 @@ export const Img__Barril = {
     Septiembre2022,
     Octubre2022,
     Noviembre2022,
-    Diciembre2022
+    Diciembre2022,
+    // TODO: Digitalizacion
+    Pag_InstaladorDigitalizacion,
+    // TODO: Cuentas de usuario
+    Administracion_CuentasDeUsuario,
+    Adm_CuentasDeusuarioVista,
+    Adm_CreacionUsuario,
+    Adm_CreacionUsuario2,
+    Adm_CreacionUsuarioTotal,
+    Adm_MensajeCreacionUsuario,
+    Menu_Permisos,
+    Adm_Permisos,
+    Adm_PermisosAdministracion,
+    Adm_PermisosAdm,
+    // TODO: Contravenciones
+    Contravenciones_,
+    agentes,
+    Agentes_Agregar,
+    Agentes_AgregarFormulario,
+    Agentes_AgregarFormularioGuardar,
+    Agentes_AgregarFormularioMs,
+    Dispositivos,
+    Dispositivos_Lista,
+    Dispositivos_Formulario,
+    Dispositivos_Ms,
+    Agentes_Listar,
+    Agentes_Menu,
+    Agentes_EditarFormulario,
+    Agentes_AgregarNovedad,
+    Agentes_FormularioAgregarNovedades,
+    Agentes_FormularioAgregarNovedadesGuardar,
+    Agentes_Calendario,
+    Agentes_SerieDelDispositivo,
+    Agentes_BuscarAgente
 };

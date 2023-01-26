@@ -34,7 +34,7 @@ const TOGenerarTarjetaDeOperacion = () => {
                     <li>imprimir t.o</li>
                 </ul>
                 <li><strong>finalizar renovación</strong></li>
-                <li><strong>entregars</strong></li>
+                <li><strong>entregar</strong></li>
             </ul>
             <div className='Img__Center'>
                 <img className="Img__Systrans" src={Img__Barril.TOInicio} alt="Inicio Systrans" ></img>
@@ -76,7 +76,7 @@ const TOGenerarTarjetaDeOperacion = () => {
                                 <img className="Img__Systrans" src={Img__Barril.TOMigaDePan} alt="Inicio Systrans" ></img>
                             </div><br />
                             <p>para esto dan clic en tarjetas de operación</p>
-                            <p>esto los devolverá a la vista principal de tarjetas de operación y seleccionan la opción renovacion</p>
+                            <p>esto los devolverá a la vista principal de tarjetas de operación y seleccionan la opción renovación</p>
                             <div className='Img__Center'>
                                 <img className="Img__Systrans" src={Img__Barril.TORenovacion} alt="Inicio Systrans" ></img>
                             </div><br />
@@ -91,7 +91,7 @@ const TOGenerarTarjetaDeOperacion = () => {
                         <img className="Img__Systrans" src={Img__Barril.TOInicioRenovacion} alt="Inicio Systrans" ></img>
                     </div><br />
                     <li>ingresan el nombre de la empresa</li>
-                    <li>ingresan el numero de liquidacion</li>
+                    <li>ingresan el numero de liquidación</li>
                     <p>una vez ingresado el numero de liquidación saldra el siguiente aviso</p>
                     <div className='Img__Center'>
                         <img className="Img__Systrans" src={Img__Barril.TOAvisoRenovacion} alt="Inicio Systrans" style={{ width: 700 }}></img>

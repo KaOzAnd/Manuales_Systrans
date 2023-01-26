@@ -23,7 +23,7 @@ const Home = () => {
                         <img src={Img__Barril.Enero2022} className="d-block w-100" alt="..."></img>
                         <div className="carousel-caption d-none d-md-block">
                             <h5></h5>
-                            <p>.</p>
+                            <p></p>
                         </div>
                     </div>
                     <div className="carousel-item" data-bs-interval="2000">

@@ -21,7 +21,7 @@ export const Menu = () => {
             <OptMenuParametros/>
             <OptMenuServicios/>
             <br/>
-            <OptMenuDigitalizacion/>
+            {/* <OptMenuDigitalizacion/> */}
             <Mantis/>
         </ul>
       </nav>
