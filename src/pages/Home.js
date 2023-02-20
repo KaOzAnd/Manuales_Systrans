@@ -19,85 +19,85 @@ const Home = () => {
                     <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="11" aria-label="Slide 12"></button>
                 </div>
                 <div className="carousel-inner">
-                    <div className="carousel-item active" data-bs-interval="10000">
-                        <img src={Img__Barril.Enero2022} className="d-block w-100" alt="..."></img>
+                    <div className="carousel-item active" data-bs-interval="100">
+                        <img src={Img__Barril.Enero2023} className="d-block w-100" alt="..."></img>
                         <div className="carousel-caption d-none d-md-block">
                             <h5></h5>
                             <p></p>
                         </div>
                     </div>
                     <div className="carousel-item" data-bs-interval="2000">
-                        <img src={Img__Barril.Febrero2022} className="d-block w-100" alt="..."></img>
+                        <img src={Img__Barril.Febrero2023} className="d-block w-100" alt="..."></img>
                         <div className="carousel-caption d-none d-md-block">
                             <h5></h5>
                             <p>.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src={Img__Barril.Marzo2022} className="d-block w-100" alt="..."></img>
+                        <img src={Img__Barril.Marzo2023} className="d-block w-100" alt="..."></img>
                         <div className="carousel-caption d-none d-md-block">
                             <h5></h5>
                             <p>.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src={Img__Barril.Abril2022} className="d-block w-100" alt="..."></img>
+                        <img src={Img__Barril.Abril2023} className="d-block w-100" alt="..."></img>
                         <div className="carousel-caption d-none d-md-block">
                             <h5></h5>
                             <p>.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src={Img__Barril.Mayo2022} className="d-block w-100" alt="..."></img>
+                        <img src={Img__Barril.Mayo2023} className="d-block w-100" alt="..."></img>
                         <div className="carousel-caption d-none d-md-block">
                             <h5></h5>
                             <p>.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src={Img__Barril.Junio2022} className="d-block w-100" alt="..."></img>
+                        <img src={Img__Barril.Junio2023} className="d-block w-100" alt="..."></img>
                         <div className="carousel-caption d-none d-md-block">
                             <h5></h5>
                             <p>.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src={Img__Barril.Julio2022} className="d-block w-100" alt="..."></img>
+                        <img src={Img__Barril.Julio2023} className="d-block w-100" alt="..."></img>
                         <div className="carousel-caption d-none d-md-block">
                             <h5></h5>
                             <p>.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src={Img__Barril.Agosto2022} className="d-block w-100" alt="..."></img>
+                        <img src={Img__Barril.Agosto2023} className="d-block w-100" alt="..."></img>
                         <div className="carousel-caption d-none d-md-block">
                             <h5></h5>
                             <p>.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src={Img__Barril.Septiembre2022} className="d-block w-100" alt="..."></img>
+                        <img src={Img__Barril.Septiembre2023} className="d-block w-100" alt="..."></img>
                         <div className="carousel-caption d-none d-md-block">
                             <h5></h5>
                             <p>.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src={Img__Barril.Octubre2022} className="d-block w-100" alt="..."></img>
+                        <img src={Img__Barril.Octubre2023} className="d-block w-100" alt="..."></img>
                         <div className="carousel-caption d-none d-md-block">
                             <h5></h5>
                             <p>.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src={Img__Barril.Noviembre2022} className="d-block w-100" alt="..."></img>
+                        <img src={Img__Barril.Noviembre2023} className="d-block w-100" alt="..."></img>
                         <div className="carousel-caption d-none d-md-block">
                             <h5></h5>
                             <p>.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src={Img__Barril.Diciembre2022} className="d-block w-100" alt="..."></img>
+                        <img src={Img__Barril.Diciembre2023} className="d-block w-100" alt="..."></img>
                         <div className="carousel-caption d-none d-md-block">
                             <h5></h5>
                             <p>.</p>

@@ -5,6 +5,7 @@ import Audiencias_ConfigurarTiempos from "../../contents/Contravenciones/Audienc
 import Audiencias_CrearInspectores from "../../contents/Contravenciones/Audiencias/Audiencias_CrearInspectores";
 import Audiencias_MotivosDeAudiencias from "../../contents/Contravenciones/Audiencias/Audiencias_MotivosDeAudiencias";
 import Audiencias_Rol from "../../contents/Contravenciones/Audiencias/Audiencias_Rol";
+import ProcesoAudiencia from "../../contents/Contravenciones/Audiencias/ProcesoAudiencia";
 
 const Audiencias = () => {
   return (
@@ -15,6 +16,7 @@ const Audiencias = () => {
       <Acordeon id={'Three'} tittle={'Crear Rol'} cont={<Audiencias_Rol/>}/>
       <Acordeon id={'Four'} tittle={'Crear Motivos de Audiencia'} cont={<Audiencias_MotivosDeAudiencias/>}/>
       <Acordeon id={'Five'} tittle={'Configurar Tiempos'} cont={<Audiencias_ConfigurarTiempos/>}/>
+      <Acordeon id={'Nine'} tittle={'Proceso Audiencia (Agregar Asistentes, Agregar Evidencia, Notificar, Re agendar, Iniciar o Cancelar Audiencia)'} cont={<ProcesoAudiencia/>}/>
       </div>
     </div>
   );

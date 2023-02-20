@@ -100,18 +100,18 @@ import TOFormularioCrearVehiculoExterno from './Modulos/TOFormularioCrearVehicul
 import TOFormularioCrearVehiculoExternoLleno from './Modulos/TOFormularioCrearVehiculoExternoLleno.png';
 import GruasAgregar from './Modulos/GruasAgregar.png';
 // TODO: IMPORT IMAGENES CALENDARIO
-import Enero2022 from   './CalendarioDespliegues/Enero2022.png';
-import Febrero2022 from   './CalendarioDespliegues/Febrero2022.png';
-import Marzo2022 from   './CalendarioDespliegues/Marzo2022.png';
-import Abril2022 from   './CalendarioDespliegues/Abril2022.png';
-import Mayo2022 from   './CalendarioDespliegues/Mayo2022.png';
-import Junio2022 from   './CalendarioDespliegues/Junio2022.png';
-import Julio2022 from   './CalendarioDespliegues/Julio2022.png';
-import Agosto2022 from   './CalendarioDespliegues/Agosto2022.png';
-import Septiembre2022 from   './CalendarioDespliegues/Septiembre2022.png';
-import Octubre2022 from   './CalendarioDespliegues/Octubre2022.png';
-import Noviembre2022 from   './CalendarioDespliegues/Noviembre2022.png';
-import Diciembre2022 from   './CalendarioDespliegues/Diciembre2022.png';
+import Enero2023 from   './CalendarioDespliegues/Enero2023.png';
+import Febrero2023 from   './CalendarioDespliegues/Febrero2023.png';
+import Marzo2023 from   './CalendarioDespliegues/Marzo2023.png';
+import Abril2023 from   './CalendarioDespliegues/Abril2023.png';
+import Mayo2023 from   './CalendarioDespliegues/Mayo2023.png';
+import Junio2023 from   './CalendarioDespliegues/Junio2023.png';
+import Julio2023 from   './CalendarioDespliegues/Julio2023.png';
+import Agosto2023 from   './CalendarioDespliegues/Agosto2023.png';
+import Septiembre2023 from   './CalendarioDespliegues/Septiembre2023.png';
+import Octubre2023 from   './CalendarioDespliegues/Octubre2023.png';
+import Noviembre2023 from   './CalendarioDespliegues/Noviembre2023.png';
+import Diciembre2023 from   './CalendarioDespliegues/Diciembre2023.png';
 // TODO: IMPORT GRUAS
 import Gruas from './Modulos/Gruas.png';
 import GruasRegistrar from './Modulos/GruasRegistrar.png';
@@ -177,6 +177,17 @@ import Audiencias_Rol from './Contravenciones/Audiencias_Rol.png';
 import Audiencias_Roles from './Contravenciones/Audiencias_Roles.png';
 import Audiencias_Inspectores from './Contravenciones/Audiencias_Inspectores.png';
 import Audiencias_InspectoresFormularioPersona from './Contravenciones/Audiencias_InspectoresFormularioPersona.png';
+import Audiencias_Opciones from './Contravenciones/Audiencias_Opciones.png'; 
+import Audiencias_OpcionesAgendas from './Contravenciones/Audiencias_OpcionesAgendas.png';
+import Audiencias_Agendas from './Contravenciones/Audiencias_Agendas.png';
+import Audiencias_CrearAgenda from './Contravenciones/Audiencias_CrearAgenda.png';
+import Audiencias_Calendario from './Contravenciones/Audiencias_Calendario.png';
+import Audiencias_MensajeComparendo from './Contravenciones/Audiencias_MensajeComparendo.png';
+import Audiencias_CrearAgenda_ from './Contravenciones/Audiencias_CrearAgenda_.png'; 
+import Audiencias_AgendaGuardada from './Contravenciones/Audiencias_AgendaGuardada.png';
+import Audiencias_AgendaCalendario from './Contravenciones/Audiencias_AgendaCalendario.png';
+import Audiencias_OpcionAudiencias from './Contravenciones/Audiencias_OpcionAudiencias.png';
+import Audiencias_Lista from './Contravenciones/Audiencias_Lista.png';
 
 export const Img__Barril = {
     // TODO: IMAGENES GLOBALES
@@ -299,18 +310,18 @@ export const Img__Barril = {
     GruasBotonAccionDeMejora,
     GruasMantenimientoCargarArchivo,
     // TODO: CALENDARIO DESPLIEGUE 
-    Enero2022,
-    Febrero2022,
-    Marzo2022,
-    Abril2022,
-    Mayo2022,
-    Junio2022,
-    Julio2022,
-    Agosto2022,
-    Septiembre2022,
-    Octubre2022,
-    Noviembre2022,
-    Diciembre2022,
+    Enero2023,
+    Febrero2023,
+    Marzo2023,
+    Abril2023,
+    Mayo2023,
+    Junio2023,
+    Julio2023,
+    Agosto2023,
+    Septiembre2023,
+    Octubre2023,
+    Noviembre2023,
+    Diciembre2023,
     // TODO: Digitalizacion
     Pag_InstaladorDigitalizacion,
     // TODO: Cuentas de usuario
@@ -349,6 +360,7 @@ export const Img__Barril = {
     Agentes_AsignarDispositivos,
     Agentes_FormularioAsignarDispositivos,
     Audiencias,
+    Audiencias_Opciones,
     Audiencias_ConfigurarTiempos,
     Audiencias_Tiempos,
     Audiencias_MotivosDeAudiencias,
@@ -357,5 +369,15 @@ export const Img__Barril = {
     Audiencias_Rol,
     Audiencias_Roles,
     Audiencias_Inspectores,
-    Audiencias_InspectoresFormularioPersona
+    Audiencias_InspectoresFormularioPersona,
+    Audiencias_OpcionesAgendas,
+    Audiencias_Agendas,
+    Audiencias_CrearAgenda,
+    Audiencias_Calendario,
+    Audiencias_MensajeComparendo,
+    Audiencias_CrearAgenda_,
+    Audiencias_AgendaGuardada,
+    Audiencias_AgendaCalendario,
+    Audiencias_OpcionAudiencias,
+    Audiencias_Lista
 };

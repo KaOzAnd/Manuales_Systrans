@@ -1,6 +1,7 @@
 {
   "name": "systrans_manuales",
   "version": "0.1.0",
+  "homepage": "http://desktop-ntmahdu/ManualSystrans/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
