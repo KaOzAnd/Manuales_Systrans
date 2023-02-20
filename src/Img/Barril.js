@@ -163,6 +163,20 @@ import Agentes_Calendario from './Contravenciones/Agentes_Calendario.png';
 import Agentes_SerieDelDispositivo from './Contravenciones/Agentes_SerieDelDispositivo.png';
 import Agentes_BuscarAgente from './Contravenciones/Agentes_BuscarAgente.png';
 import Agentes_FormularioAgregarNovedadesGuardar from './Contravenciones/Agentes_FormularioAgregarNovedadesGuardar.png';
+import Agentes_VerNovedades from './Contravenciones/Agentes_VerNovedades.png';
+import Agentes_VerNovedadesCreadas from './Contravenciones/Agentes_VerNovedadesCreadas.png';
+import Agentes_AsignarDispositivos from './Contravenciones/Agentes_AsignarDispositivos.png';
+import Agentes_FormularioAsignarDispositivos from './Contravenciones/Agentes_FormularioAsignarDispositivos.png';
+import Audiencias from './Contravenciones/Audiencias.png';
+import Audiencias_ConfigurarTiempos from './Contravenciones/Audiencias_ConfigurarTiempos.png';
+import Audiencias_Tiempos from './Contravenciones/Audiencias_Tiempos.png';
+import Audiencias_MotivosDeAudiencias from './Contravenciones/Audiencias_MotivosDeAudiencias.png';
+import Audiencias_FormularioMotivos from './Contravenciones/Audiencias_FormularioMotivos.png';
+import Audiencias_CrearMotivo from './Contravenciones/Audiencias_CrearMotivo.png';
+import Audiencias_Rol from './Contravenciones/Audiencias_Rol.png';
+import Audiencias_Roles from './Contravenciones/Audiencias_Roles.png';
+import Audiencias_Inspectores from './Contravenciones/Audiencias_Inspectores.png';
+import Audiencias_InspectoresFormularioPersona from './Contravenciones/Audiencias_InspectoresFormularioPersona.png';
 
 export const Img__Barril = {
     // TODO: IMAGENES GLOBALES
@@ -329,5 +343,19 @@ export const Img__Barril = {
     Agentes_FormularioAgregarNovedadesGuardar,
     Agentes_Calendario,
     Agentes_SerieDelDispositivo,
-    Agentes_BuscarAgente
+    Agentes_BuscarAgente,
+    Agentes_VerNovedades,
+    Agentes_VerNovedadesCreadas,
+    Agentes_AsignarDispositivos,
+    Agentes_FormularioAsignarDispositivos,
+    Audiencias,
+    Audiencias_ConfigurarTiempos,
+    Audiencias_Tiempos,
+    Audiencias_MotivosDeAudiencias,
+    Audiencias_FormularioMotivos,
+    Audiencias_CrearMotivo,
+    Audiencias_Rol,
+    Audiencias_Roles,
+    Audiencias_Inspectores,
+    Audiencias_InspectoresFormularioPersona
 };

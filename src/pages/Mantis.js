@@ -24,7 +24,7 @@ const Mantis = () => {
             <img className='Img__Systrans' src={Img__Barril.mantisbt_panel}></img>
           </div><br />
           <p>Los botones y las acciones que pueden realizar en esta pantalla son las siguientes:</p>
-          <h3><p>reportar incidencia  <img className='Img__Systrans' src={Img__Barril.BotonBT_ReportarIncidencia} style={{ width: 200 }}></img> este botón lo lleva a la pantalla para crear una nueva incidencia</p></h3>
+          <p>reportar incidencia  <img className='Img__Systrans' src={Img__Barril.BotonBT_ReportarIncidencia} style={{ width: 200 }}></img> este botón lo lleva a la pantalla para crear una nueva incidencia</p>
           <div className="Img__Center">
             <img className='Img__Systrans' src={Img__Barril.SeleccionarProyecto} style={{ width: 800 }}></img>
           </div>

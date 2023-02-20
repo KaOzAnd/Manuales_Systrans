@@ -5,7 +5,6 @@ export const OptMenuAdministracion = () => {
 
   const [cl, setAction] = useState('list__hide')
   const open = () => {
-
     if (cl === 'list__hide')
       setAction('list__show')
     else
