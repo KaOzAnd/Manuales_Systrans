@@ -16,7 +16,8 @@ const Audiencias = () => {
       <Acordeon id={'Three'} tittle={'Crear Rol'} cont={<Audiencias_Rol/>}/>
       <Acordeon id={'Four'} tittle={'Crear Motivos de Audiencia'} cont={<Audiencias_MotivosDeAudiencias/>}/>
       <Acordeon id={'Five'} tittle={'Configurar Tiempos'} cont={<Audiencias_ConfigurarTiempos/>}/>
-      <Acordeon id={'Nine'} tittle={'Proceso Audiencia (Agregar Asistentes, Agregar Evidencia, Notificar, Re agendar, Iniciar o Cancelar Audiencia)'} cont={<ProcesoAudiencia/>}/>
+      <Acordeon id={'Nine'} tittle={'Proceso Audiencia (Agregar Asistentes, Agregar Evidencia, Notificar, Re agendar, Iniciar o Cancelar Audiencia)'} 
+      cont={<ProcesoAudiencia/>}/>
       </div>
     </div>
   );
